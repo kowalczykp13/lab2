@@ -35,5 +35,5 @@ jobs:
           file: ./dockerfile
           push: true
           tags: |
-            kowalczykp13:lab2
+            kowalczykp13/lab:lab2
           
